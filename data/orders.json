@@ -1,0 +1,54 @@
+[
+    {
+        "order_id": 1773343457,
+        "user_id": 1,
+        "customer": {
+            "name": "suzan",
+            "email": "suzanreda639@gmail.com",
+            "address": "kafrelsheikh",
+            "phone": "01020327521",
+            "notes": "no"
+        },
+        "items": {
+            "4": {
+                "name": "Bluetooth Headphones",
+                "price": "700",
+                "quantity": 1
+            }
+        },
+        "total": 700,
+        "status": "Pending",
+        "date": "2026-03-12 20:24:17"
+    },
+    {
+        "order_id": 1773345743,
+        "user_id": 1,
+        "customer": {
+            "name": "suzan reda",
+            "email": "suzanreda639@gmail.com",
+            "address": "kafrelsheikh",
+            "phone": "01020327521",
+            "notes": "no"
+        },
+        "items": {
+            "1": {
+                "name": "Laptop Stand",
+                "price": "560",
+                "quantity": 1
+            },
+            "3": {
+                "name": "Gaming Keyboard",
+                "price": "750",
+                "quantity": 1
+            },
+            "0": {
+                "name": "USB-C Hub",
+                "price": "600",
+                "quantity": 1
+            }
+        },
+        "total": 1910,
+        "status": "accepted",
+        "date": "2026-03-12 21:02:23"
+    }
+]
